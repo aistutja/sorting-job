@@ -1,0 +1,3 @@
+DAO stands for Data Access Object. 
+Design Pattern is used to separate the data persistence logic in a separate layer. 
+This way, the service remains completely in dark about how the low-level operations to access the database is done. 
